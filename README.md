@@ -1,4 +1,4 @@
-***Rental-Cars***
+# Rental-Cars
 This is a web application designed for a rental car service, built using JavaScript, HTML, and CSS. The website is hosted on Azure, providing a seamless and efficient platform for users to browse available rental cars.
 
 **Features**
